@@ -16,6 +16,7 @@ public class MainService {
 			bstForInt.add(77);
 			bstForInt.add(21);
 			bstForInt.add(34);
+			bstForInt.add(50);
 			bstForInt.print();
 			
 		}
