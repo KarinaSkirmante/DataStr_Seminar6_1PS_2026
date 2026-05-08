@@ -147,4 +147,5 @@ public class MyBST<Ttype> {
 
 	}
 
+	//TODO uztaisīt remove un removeHelper funkcijas
 }
