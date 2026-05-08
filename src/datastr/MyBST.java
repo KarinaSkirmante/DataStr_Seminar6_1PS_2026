@@ -93,7 +93,7 @@ public class MyBST<Ttype> {
 			}
 
 			if (node.getRightChildNode() != null) {
-				System.out.println("P: " + node.getElement() + "RC: " + node.getRightChildNode().getElement());
+				System.out.println("P: " + node.getElement() + " RC: " + node.getRightChildNode().getElement());
 				printHelper(node.getRightChildNode());
 			}
 		}
